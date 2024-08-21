@@ -25,7 +25,7 @@ Additional Resources:
 
 Contributors
 Ardel 
-kuya Edison
+,kuya Edison
 
 We encourage contributions from the community! If you have additional exercises or improvements to suggest, please feel free to submit a pull request.
 
