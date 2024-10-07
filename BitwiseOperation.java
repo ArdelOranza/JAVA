@@ -1,6 +1,6 @@
 /**
  *
- * @author Kimani
+ *
  *
  */
 public class BitwiseOperation {
